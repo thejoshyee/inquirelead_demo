@@ -1,4 +1,4 @@
-# InquireLead Demo
+# InquireLead (demo)
 
 This repository contains **screenshots** of the work-in-progress frontend for **InquireLead**, a SaaS tool designed to streamline lead generation. The frontend is built with **Next.js** and styled using **Tailwind CSS**.
 
