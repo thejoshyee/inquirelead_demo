@@ -13,16 +13,16 @@ InquireLead is a lead discovery platform that aims to simplify finding relevant 
 
 ### Current Progress
 
-![Landing Page](https://raw.githubusercontent.com/thejoshyee/inquirelead_demo/refs/heads/main/screenshots/my-projects.png) 
+![Landing Page](https://raw.githubusercontent.com/thejoshyee/inquirelead_demo/refs/heads/main/screenshots/hero-page.png) 
 *Landing Page*
 
-![Temp Pricing Tiers]([path/to/screenshot2.png](https://github.com/thejoshyee/inquirelead_demo/blob/main/screenshots/pricing-tiers.png))  
+![Temp Pricing Tiers](https://raw.githubusercontent.com/thejoshyee/inquirelead_demo/refs/heads/main/screenshots/pricing-tiers.png)  
 *Temp pricing tiers*
 
-![My Projects Page]([path/to/screenshot3.png](https://github.com/thejoshyee/inquirelead_demo/blob/main/screenshots/my-projects.png))  
+![My Projects Page](https://raw.githubusercontent.com/thejoshyee/inquirelead_demo/refs/heads/main/screenshots/my-projects.png)  
 *My Projects page*
 
-![Project Details]([path/to/screenshot3.png](https://github.com/thejoshyee/inquirelead_demo/blob/main/screenshots/my-projects.png))  
+![Project Details](https://raw.githubusercontent.com/thejoshyee/inquirelead_demo/refs/heads/main/screenshots/project-details.png)  
 *Project Details page*
 
 ---
