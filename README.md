@@ -2,6 +2,11 @@
 
 This repository contains **screenshots** of the work-in-progress frontend for **InquireLead**, a SaaS tool designed to streamline lead generation. The frontend is built with **Next.js** and styled using **Tailwind CSS**.
 
+⚠️ **Note**: This repository is for **portfolio display purposes only**.  
+The full source code is private.
+
+For more details about this project, feel free to contact me!
+
 ## Overview
 
 InquireLead is a lead discovery platform that aims to simplify finding relevant business leads across various platforms. This demo showcases the current progress of the user interface and user experience.
